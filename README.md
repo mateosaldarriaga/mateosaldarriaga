@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mateo Saldarriaga
 
-I'm a 17-year-old self-taught developer building real-world projects with JavaScript, TypeScript, and modern web frameworks like React and Node.js.
+I'm a self-taught developer building real-world projects with JavaScript, TypeScript, and modern web frameworks like React and Node.js.
 
 ### 💻 What I do
 - Build full-stack apps with a focus on clean UX and speed
